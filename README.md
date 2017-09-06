@@ -13,8 +13,6 @@ Visual Localizer is an open source plugin for Microsoft Visual Studio. It focuse
 ## Downloads
 Download [installation binary](https://github.com/ostumpf/visuallocalizer/blob/master/install/Setup.msi).
 
-### [Donate - PayPal or credit card](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=YY7U267D6DRA2)
-
 ## Docs
 * [installation requirements](https://github.com/ostumpf/visuallocalizer/blob/master/requirements.md)
 * [manual installation guidelines](https://github.com/ostumpf/visuallocalizer/blob/master/Manual%20Installation.md)
